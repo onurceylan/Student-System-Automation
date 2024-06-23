@@ -1,0 +1,16 @@
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\bin\Debug\BonusProje1.exe.config
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\bin\Debug\BonusProje1.exe
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\bin\Debug\BonusProje1.pdb
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.csproj.AssemblyReference.cache
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.Form1.resources
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.Properties.Resources.resources
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.csproj.GenerateResource.cache
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.csproj.CoreCompileInputs.cache
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.exe
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.pdb
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.FrmOgrenciNotlar.resources
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.frmOgretmen.resources
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.FrmKulup.resources
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.FrmDersler.resources
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.FrmOgrenci.resources
+C:\Users\onurc\Desktop\udemy projeler\BonusProje1\obj\Debug\BonusProje1.FrmSinavNotlar.resources
