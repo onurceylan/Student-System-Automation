@@ -1,6 +1,6 @@
-# E-okul Benzeri Otomasyon
+# Student System Automation
 
-ortaokul ve lisede kullanılabilecek hem öğrenci hem öğretmen için c# ve mssql ile e-okula benzer bir otomasyon sistemi oluşturdum
+I have developed an automation system similar to e-school, designed for use in middle schools and high schools. This system serves both students and teachers and is built using C# and MS SQL.
 
 ![Ekran görüntüsü 2025-02-16 150658](https://github.com/user-attachments/assets/88fe9729-b625-451b-b24b-0d33e4ed8426)
 ![Ekran görüntüsü 2025-02-16 150726](https://github.com/user-attachments/assets/7317e3d0-59e9-4bd0-b98f-7454341ab524)
